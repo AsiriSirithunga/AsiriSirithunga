@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # 💫About Me :
-A simple man with positive attitudes who loves to learn and experiment things. I'm really interested to engage in areas different from one another.
 
 - 🔭 I’m currently studying Electronic and Telecommunication engineering at the university of Moratuwa.
 - 🌱 I’m currently focusing on Robotics and Industry Automation. 
@@ -28,7 +27,7 @@ A simple man with positive attitudes who loves to learn and experiment things. I
 [![](https://visitcount.itsvg.in/api?id=AsiriSirithunga&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RavinduA) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RavinduA) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
